@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Introduction to Linear Algebra"
+
+[output.html]
+mathjax-support = true
