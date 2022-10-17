@@ -24,6 +24,11 @@
   - [Elimination = Factorization: A=LU]()
   - [Transposes and Permutations]()
 
+## Eigenvalues and Eigenvectors
+
+- [Eigenvalues and Eigenvectors](./chapter_6/index.md)
+
+  - [Introduction to Eigenvalues](./chapter_6/section_1.md)
 ## Appendix
 
 [Appendix]()
